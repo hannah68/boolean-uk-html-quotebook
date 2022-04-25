@@ -11,5 +11,6 @@ It's a website to collect quotes
  - Use (https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)[MDN] as a reference for relevant CSS properties 
  
  ## Challenge 
- 1 - Add fonts from (https://fonts.google.com/)[Google Fonts] Challenge 
+ 1 - Add fonts from (https://fonts.google.com/)[Google Fonts] 
+ 
  2 - Add alternating colours to the quotes without using additional classes
